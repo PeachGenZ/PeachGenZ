@@ -1,5 +1,6 @@
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-### I'm Android developer <img alt="Android" src="https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png" width="30" />
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hello world.</h1>
+<p>I'm Android developer. <img alt="Android" src="https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png" width="30" /></p>
+
 <!--![image](https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png)
 
 **PeachGenZ/PeachGenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
