@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ### I'm Android developer <img alt="Android" src="https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png" width="30" />
 <!--![image](https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png)
 
