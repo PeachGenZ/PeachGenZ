@@ -4,10 +4,12 @@
 <p>:pushpin: MVVM + Android Architecture Component, Clean Architecture</p>
 <p>:pushpin: Lfecycle, LiveData, Navigation, Room, Data Binding, View Biding, Notifications
 <p>:pushpin: Koin, Degger2, Retrofit, Ktor, Okhttp3, Gson, Glide</p>
-<br/><br/>
 <p align="center">
-  <img alt="AndroidFooter" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="50%"/>
+  <img alt="AndroidFooter" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="30%"/>
 </p>
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=PeachGenZ&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
 <!--![image](https://user-images.githubusercontent.com/32310775/154116690-47a607de-be70-44ae-abb8-e2e3349cb443.png)
