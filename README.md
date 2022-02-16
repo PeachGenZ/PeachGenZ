@@ -4,7 +4,7 @@
 <p>:pushpin: MVVM + Android Architecture Component, Clean Architecture</p>
 <p>:pushpin: Lfecycle, LiveData, Navigation, Room, Data Binding, View Biding, Notifications
 <p>:pushpin: Koin, Degger2, Retrofit, Ktor, Okhttp3, Gson, Glide</p>
-<br/><br/><br/>
+<br/><br/>
 <p align="center">
   <img alt="AndroidFooter" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="50%"/>
 </p>
