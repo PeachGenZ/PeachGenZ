@@ -3,7 +3,7 @@
 <h3>Experience with...</h3>
 <p>:pushpin: MVVM + Android Architecture Component</p>
 <p>:pushpin: Lifecycle, LiveData, Navigation, Room, Data Binding, View Biding, Notifications
-<p>:pushpin: Koin, Degger2, Retrofit, Ktor, Okhttp3, Gson, Glide, Coroutines</p>
+<p>:pushpin: Koin, Degger, Retrofit, Ktor, Okhttp3, Gson, Glide, Coroutines</p>
 <p align="center">
   <img alt="AndroidFooter" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="30%"/>
 </p>
